@@ -1,69 +1,90 @@
 [submodule "rails_extend"]
-	path = rails_extend
-	url = git@github.com:meal-design/rails_extend.git
+  path = rails_extend
+  url = git@github.com:meal-design/rails_extend.git
+  branch=main
 [submodule "rails_org"]
-	path = rails_org
-	url = git@github.com:meal-design/rails_org.git
+  path = rails_org
+  url = git@github.com:meal-design/rails_org.git
+  branch=main
 [submodule "rails_com"]
-	path = rails_com
-	url = git@github.com:meal-design/rails_com.git
+  path = rails_com
+  url = git@github.com:meal-design/rails_com.git
+  branch=main
 [submodule "rails_cms"]
-	path = rails_cms
-	url = git@github.com:meal-design/rails_cms.git
+  path = rails_cms
+  url = git@github.com:meal-design/rails_cms.git
+  branch=main
 [submodule "rails_crm"]
-	path = rails_crm
-	url = git@github.com:meal-design/rails_crm.git
+  path = rails_crm
+  url = git@github.com:meal-design/rails_crm.git
+  branch=main
 [submodule "rails_auth"]
-	path = rails_auth
-	url = git@github.com:meal-design/rails_auth.git
+  path = rails_auth
+  url = git@github.com:meal-design/rails_auth.git
+  branch=main
 [submodule "rails_data"]
-	path = rails_data
-	url = git@github.com:meal-design/rails_data.git
+  path = rails_data
+  url = git@github.com:meal-design/rails_data.git
 [submodule "rails_ship"]
-	path = rails_ship
-	url = git@github.com:meal-design/rails_ship.git
+  path = rails_ship
+  url = git@github.com:meal-design/rails_ship.git
 [submodule "rails_wait"]
-	path = rails_wait
-	url = git@github.com:meal-design/rails_wait.git
+  path = rails_wait
+  url = git@github.com:meal-design/rails_wait.git
+  branch=main
 [submodule "rails_audit"]
-	path = rails_audit
-	url = git@github.com:meal-design/rails_audit.git
+  path = rails_audit
+  url = git@github.com:meal-design/rails_audit.git
+  branch=main
 [submodule "rails_bench"]
-	path = rails_bench
-	url = git@github.com:meal-design/rails_bench.git
+  path = rails_bench
+  url = git@github.com:meal-design/rails_bench.git
+  branch=main
 [submodule "rails_email"]
-	path = rails_email
-	url = git@github.com:meal-design/rails_email.git
+  path = rails_email
+  url = git@github.com:meal-design/rails_email.git
+  branch=main
 [submodule "rails_event"]
-	path = rails_event
-	url = git@github.com:meal-design/rails_event.git
+  path = rails_event
+  url = git@github.com:meal-design/rails_event.git
+  branch=main
 [submodule "rails_space"]
-	path = rails_space
-	url = git@github.com:meal-design/rails_space.git
+  path = rails_space
+  url = git@github.com:meal-design/rails_space.git
+  branch=main
 [submodule "rails_trade"]
-	path = rails_trade
-	url = git@github.com:meal-design/rails_trade.git
+  path = rails_trade
+  url = git@github.com:meal-design/rails_trade.git
+  branch=main
 [submodule "rails_design"]
-	path = rails_design
-	url = git@github.com:meal-design/rails_design.git
+  path = rails_design
+  url = git@github.com:meal-design/rails_design.git
+  branch=main
 [submodule "rails_douyin"]
-	path = rails_douyin
-	url = git@github.com:meal-design/rails_douyin.git
+  path = rails_douyin
+  url = git@github.com:meal-design/rails_douyin.git
+  branch=main
 [submodule "rails_notice"]
-	path = rails_notice
-	url = git@github.com:meal-design/rails_notice.git
+  path = rails_notice
+  url = git@github.com:meal-design/rails_notice.git
+  branch=main
 [submodule "rails_wechat"]
-	path = rails_wechat
-	url = git@github.com:meal-design/rails_wechat.git
+  path = rails_wechat
+  url = git@github.com:meal-design/rails_wechat.git
+  branch=main
 [submodule "rails_factory"]
-	path = rails_factory
-	url = git@github.com:meal-design/rails_factory.git
+  path = rails_factory
+  url = git@github.com:meal-design/rails_factory.git
+  branch=main
 [submodule "rails_profile"]
-	path = rails_profile
-	url = git@github.com:meal-design/rails_profile.git
+  path = rails_profile
+  url = git@github.com:meal-design/rails_profile.git
+  branch=main
 [submodule "rails_finance"]
-	path = rails_finance
-	url = git@github.com:meal-design/rails_finance.git
+  path = rails_finance
+  url = git@github.com:meal-design/rails_finance.git
+  branch=main
 [submodule "rails_markdown"]
-	path = rails_markdown
-	url = git@github.com:meal-design/rails_markdown.git
+  path = rails_markdown
+  url = git@github.com:meal-design/rails_markdown.git
+  branch=main
