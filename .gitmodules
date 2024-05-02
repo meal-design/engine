@@ -1,7 +1,3 @@
-[submodule "rails_extend"]
-  path = rails_extend
-  url = git@github.com:meal-design/rails_extend.git
-  branch=main
 [submodule "rails_org"]
   path = rails_org
   url = git@github.com:meal-design/rails_org.git
