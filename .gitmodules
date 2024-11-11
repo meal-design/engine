@@ -73,8 +73,8 @@
   url = git@github.com:work-design/rails_factory.git
   branch=main
 [submodule "rails_jia_bo"]
-  path = rails_jia_bo
-  url = git@github.com:work-design/rails_jia_bo.git
+	path = rails_jia_bo
+	url = git@github.com:work-design/rails_jia_bo.git
   branch=main
 [submodule "rails_finance"]
   path = rails_finance
@@ -84,3 +84,6 @@
   path = rails_markdown
   url = git@github.com:work-design/rails_markdown.git
   branch=main
+[submodule "rails_bluetooth"]
+	path = rails_bluetooth
+	url = git@github.com:work-design/rails_bluetooth.git
