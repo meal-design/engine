@@ -87,3 +87,6 @@
 [submodule "rails_bluetooth"]
 	path = rails_bluetooth
 	url = git@github.com:work-design/rails_bluetooth.git
+[submodule "rails_alipay"]
+	path = rails_alipay
+	url = git@github.com:work-design/rails_alipay.git
